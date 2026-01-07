@@ -45,18 +45,6 @@ I like working on real-world projects using modern frontend + backend tools.
 - Work on authentication, CRUD, dashboards, and integrations  
 - Focus on performance, clean code, and scalability  
 
----
-
-## 📊 Most Used Languages
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeghanaKolthuri&layout=compact" />
-</p>
-
-## 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MeghanaKolthuri&show_icons=true" />
-</p>
-
 
 ---
 
