@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I’m Meghana Kolthuri 👋  
-### Full-Stack Developer | Turning ideas into scalable digital experiences
+### Java Full-Stack Developer | Turning ideas into scalable digital experiences
 
 </div>
 
@@ -10,7 +10,7 @@
 <img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/74038190/212750147-5d9a0e6f-1b2d-4f55-9f25-f2f28f8b7a56.gif" />
 
 ## 🚀 About Me
-I’m a full-stack developer who enjoys building clean UI, reliable APIs, and end-to-end web apps that perform well and scale.  
+I’m a Java full-stack developer who enjoys building clean UI, reliable APIs, and end-to-end web apps that perform well and scale.  
 I like working on real-world projects using modern frontend + backend tools.
 
 ---
